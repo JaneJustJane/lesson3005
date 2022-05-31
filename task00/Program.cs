@@ -25,7 +25,7 @@ void PrintMatrix (int [,] m2)
     }
 }
 
-//void MainDiagonalSum (int [,] m3)
+//int MainDiagonalSum (int [,] m3)
 //{
     //int sum = 0;
     //for (int i=0; i<m3.GetLength(0); i++)
